@@ -1,0 +1,6 @@
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\bin\Debug\MakeShapes.exe.config
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\bin\Debug\MakeShapes.exe
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\bin\Debug\MakeShapes.pdb
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\obj\Debug\MakeShapes.csprojResolveAssemblyReference.cache
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\obj\Debug\MakeShapes.exe
+C:\Users\spfastjr\Documents\Visual Studio 2013\Projects\CSharp\ConsoleApps\MakeShapes\MakeShapes\obj\Debug\MakeShapes.pdb
